@@ -11,4 +11,3 @@ Ionic, Angular, html, scss, css, typescript
 ## Responsive design
 ![Alt text](image.png)
 ![Alt text](image-1.png)
-![Alt text](image-2.png)
