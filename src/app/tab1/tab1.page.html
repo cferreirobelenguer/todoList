@@ -11,7 +11,7 @@
     <ion-item>
       <ion-input placeholder="Enter your todo" (ionChange)="handleChange($event)" ></ion-input>
     </ion-item>
-    <ion-item *ngFor="let item of todoData;let indexOfelement=index;">
+    <ion-item *ngFor="let item of localStorageData;let indexOfelement=index;">
       <ion-label (click)="labelClick(indexOfelement)" [ngClass]="{'todos--remove': item.isFinish , 'todos--noremove': item.isFinish === false }">{{item.data}}</ion-label>
     </ion-item>
   </ion-list>
