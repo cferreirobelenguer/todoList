@@ -41,5 +41,6 @@ export class Tab1Page implements OnInit {
   public labelClick = (index: number) => {
     //when the user press the event, the task finished
     this.localStorageData[index].isFinish = true;
+    localStorage.setItem("key", JSON.stringify(this.localStorageData));
   }
 }
