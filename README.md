@@ -3,6 +3,7 @@
 Todo List proyect, we put the tasks into the localStorage. When we press one of the tasks, it ends and is underlined
 
 ## Model
+### I have based on this exercise to implement the functionality
 https://50projects50days.com/projects/todo-list/
 
 ## Technologys
