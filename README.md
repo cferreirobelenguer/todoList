@@ -1,6 +1,6 @@
 # TODO LIST
 
-Todo List proyect, we put the data into the localStorage. When we press the data they change the style
+Todo List proyect, we put the tasks into the localStorage. When we press one of the tasks, it ends and is underlined
 
 ## Model
 https://50projects50days.com/projects/todo-list/
