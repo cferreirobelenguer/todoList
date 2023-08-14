@@ -2,7 +2,7 @@
 
 Todo List proyect, we put the tasks into the localStorage. When we press one of the tasks, it ends and is underlined
 
-## Technologys
+## Technologies
 Ionic, Angular, html, scss, css, typescript
 
 ## Responsive design
